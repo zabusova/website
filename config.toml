@@ -1,7 +1,7 @@
 baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Zabusova"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,12 +15,12 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "homeTitle" # Set a different text for the header on the home page
-  subtitle = "Subitle"
+  subtitle = "Subtitle"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   wordCount = true
@@ -57,7 +57,7 @@ pygmentsCodefencesGuessSyntax = true
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
-#  instagram = "username"
+   instagram = "digital_philosopher_"
 #  youtube = "user/username" # or channel/channelname
 #  soundcloud = "username"
 #  spotify = "username"
