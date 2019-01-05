@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   homeTitle = "homeTitle" # Set a different text for the header on the home page
   subtitle = "Subtitle"
-  logo = "img/icons8-blog-filled-500.png" # Expecting square dimensions
+  logo = "img/myfavicon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
